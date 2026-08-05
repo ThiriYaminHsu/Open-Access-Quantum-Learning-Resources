@@ -80,6 +80,33 @@
 
 - [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
 
+## [Keysight](https://www.keysight.com/us/en/learn.html)
+- [Quantum Sensing](https://www.keysight.com/us/en/learn/bootcamp/152137.html)
+- [Post Quantum Crytography](https://www.keysight.com/us/en/learn/bootcamp/147040.html)
+- [Superconducting Quantum Design](https://www.keysight.com/us/en/learn/bootcamp/139273.html)
+- [Quantum Horizon Part 1 - Core Concepts and System Design](https://www.keysight.com/us/en/learn/bootcamp/142376.html)
+- [Quantum Horizon Part 2 - Challanges and Industry Impacts](https://www.keysight.com/us/en/learn/bootcamp/142820.html)
+
+## [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en/courses)
+### Quantum Information & Computation
+- [1. Basics of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information)
+- [2. Fundamentals of Quantum Algorithms](https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms)
+- [3. Genaral Formulation of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/general-formulation-of-quantum-information)
+- [4. Foundations of Quantum Error Corrections](https://quantum.cloud.ibm.com/learning/en/courses/foundations-of-quantum-error-correction)
+
+### Quantum Computing for Business
+- [Quantum Business Foundations](https://quantum.cloud.ibm.com/learning/en/courses/quantum-business-foundations)
+- [Designing and Leading Quantum Projects](https://quantum.cloud.ibm.com/learning/en/courses/designing-and-leading-quantum-projects)
+- [Practical Introduction to Quantum Safe Cryptography](https://quantum.cloud.ibm.com/learning/en/courses/quantum-safe-cryptography)
+
+### Key Techniques and Applications
+- [Quantum Machine Learning](https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning)
+- [Variational Algorithm Design](https://quantum.cloud.ibm.com/learning/en/courses/variational-algorithm-design)
+- [Quantum Diagonalization Algorithms](https://quantum.cloud.ibm.com/learning/en/courses/quantum-diagonalization-algorithms)
+- [Quantum Chemistry with VQE](https://quantum.cloud.ibm.com/learning/en/courses/quantum-chem-with-vqe)
+- [Utility-scale Quantum Computing](https://quantum.cloud.ibm.com/learning/en/courses/utility-scale-quantum-computing)
+- [Integrating Quantum and High-Performance Computing](https://quantum.cloud.ibm.com/learning/en/courses/integrating-quantum-and-high-performance-computing)
+
 ## YouTube
 
 - [Domain of Science Quantum Physics series](https://youtube.com/playlist?list=PLOYRlicwLG3T3mQYvpemGPzQLu8FYtW3l&feature=shared)
@@ -95,6 +122,7 @@
 - [Quantum Physics by Up and Atom](https://youtube.com/playlist?list=PL1lNrW4e0G8WmWpW846oE_m92nw3rlOpz&feature=shared)
 - [Yale Course Fundamentals of Physics](https://youtube.com/playlist?list=PLFE3074A4CB751B2B&feature=shared)
 - [How to learn Quantum Mechanics on your own (a self-study guide) by Looking Glass Universe](https://youtu.be/Rs572Cf4zkk?feature=shared)
+- [Secure Quantum Computing](https://www.youtube.com/@refezs/videos)
 
 ## Other Resources 
 
@@ -113,8 +141,9 @@
 - [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 - [Quantum Katas by Microsoft](https://quantum.microsoft.com/en-us/tools/quantum-katas)
 - [QuEra](https://quera.com/)  
-- [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
 - [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
+- [Qiskit Documentation](https://github.com/Qiskit/documentation)
 - [Quantum Computing Playground](https://www.quantumplayground.net/#/home)
 - [The Quantum Game](https://quantumgame.io/)
+- [QWorld](https://qworld.net/)
 
